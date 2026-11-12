@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "sophisticatedbackpacks:upgrade_base"
+    },
+    "T": {
+      "item": "minecraft:turtle_helmet"
+    },
+    "P": {
+      "item": "minecraft:pufferfish"
+    },
+    "D": {
+      "tag": "minecraft:doors"
+    },
+    "S": {
+      "item": "minecraft:seagrass"
+    }
+  },
+  "pattern": [
+    "STS",
+    "PBP",
+    "SDS"
+  ],
+  "result": {
+    "id": "sophisticatedwaterbreathing:water_breathing_upgrade"
+  }
+}
